@@ -1,0 +1,10 @@
+api:
+  v1:
+    save-units: /v1/save
+    save-author: /v1/save
+    save-book: v1/save
+    save-discount: v1/save
+    save-grade: v1/save
+    save-medium: v1/save
+    save-publisher: v1/save
+    save-subject: v1/save
